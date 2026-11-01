@@ -76,7 +76,4 @@ python 06_paired_timecourse.py --soft-file data/GSE24223_family.soft.gz --lfc-th
   cells.
 - Output tables and figures are written to `./data` and `./figures`; these folders are ignored by git.
 
-## Citation and license
 
-[Add the manuscript citation here after publication.]  
-[Add a license, for example MIT, by choosing "Add file > Create new file > LICENSE" on GitHub.]
